@@ -36,3 +36,18 @@ Most Preferred AI Tools (Python, TensorFlow, etc.)
 
 ***📷 Dashboard Preview***
 
+![img alt](https://github.com/Daniyal07420/AI_Job_Market_Analysis_Dashboard-Python-/blob/main/python%20dashboard%20analysis.png?raw=true)
+
+
+***🧩 Key Learnings***
+
+End-to-end data analysis workflow
+Data storytelling through Power BI
+Building client-ready dashboards for startups
+
+
+***🧑‍💻 Developed By:***
+
+Rana Daniyal
+📧 daniyalinfo.com@gmail.com
+🔗 LinkedIn Profile: https://www.linkedin.com/in/rana-daniyal-720a43379/
